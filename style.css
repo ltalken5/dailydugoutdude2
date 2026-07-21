@@ -1,0 +1,58 @@
+body {
+    background: #f4e8cf;
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.card {
+    max-width: 400px;
+    margin: 40px auto;
+    background: #fffdf7;
+    border: 8px solid #0b1f3a;
+    border-radius: 20px;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0,0,0,.2);
+}
+
+h1 {
+    color: #b22222;
+    margin-bottom: 20px;
+}
+
+#player-image {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 5px solid #0b1f3a;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #0b1f3a;
+    font-size: 32px;
+}
+
+h3 {
+    color: #b22222;
+}
+
+ul {
+    text-align: left;
+}
+.score-box {
+    width: 100%;
+    height: 20px;
+    background: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px 0;
+}
+
+#score-bar {
+    height: 100%;
+    width: 0;
+    background: #b22222;
+    border-radius: 10px;
+}

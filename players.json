@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "name": "Dock Ellis",
+        "position": "PITCHER",
+        "teams": "Pirates, Yankees, Rangers",
+        "years": "1968–1979",
+        "score": 98,
+        "image": "https://images.unsplash.com/photo-1562077772-3bd90403f7f0?auto=format&fit=crop&w=400&q=80",
+        "facts": [
+            "Famously pitched a no-hitter in 1970 while under the influence of LSD.",
+            "Was a vocal advocate for players' rights and African American athletes.",
+            "Once hit three consecutive batters to 'straighten them out'."
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Bartolo Colón",
+        "position": "PITCHER",
+        "teams": "Indians, Angels, Mets",
+        "years": "1997–2018",
+        "score": 95,
+        "image": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=400&q=80",
+        "facts": [
+            "Known affectionately as 'Big Sexy' by fans and teammates.",
+            "Became the oldest player to hit his first career home run at age 42.",
+            "Played for 11 different MLB franchises over 21 seasons."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Munenori Kawasaki",
+        "position": "SHORTSTOP",
+        "teams": "Mariners, Blue Jays, Cubs",
+        "years": "2012-2016",
+        "score": 89,
+        "image": "Images/munenori-kawasaki.jpg",
+        "facts": [
+            "Famous for his high-energy post-game interviews and 'I am Japanese!' catchphrase.",
+            "Authored a 'handbook' on how to be a teammate.",
+            "Once told reporters his secret to avoiding cramps was eating three bananas a day."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ken Harvey",
+        "position": "First Baseman",
+        "teams": "Royals",
+        "years": "2002-2008",
+        "score": 92,
+        "image": "Images/ken-harvey.jpg",
+        "facts": [
+            "Overweight"
+        ]
+    }
+]
