@@ -66,18 +66,19 @@
             "The ultimate utility man. He played multiple positions throughout his career.",
             "Kindof looks like Derek Lowe and Justin Verlander had a baby."
         ]
+    },
+    {
+            "id": 5,
+            "name": "Jason Bay",
+            "position": "Left Fielder",
+            "teams": "Padres, Pirates, Red Sox, Mets, Mariners",
+            "years": "2003-2013",
+            "score": 64,
+            "image": "Images/jason-bay.jpg",
+            "facts": [
+                "Canadian",
+                "The first Pirate to win the National League Rookie of the Year award since Barry Bonds in 1986.",
+                "About equally as attractive as Pau Skenes."
+            ]
     }
-]{
-        "id": 5,
-        "name": "Jason Bay",
-        "position": "Left Fielder",
-        "teams": "Padres, Pirates, Red Sox, Mets, Mariners",
-        "years": "2003-2013",
-        "score": 64,
-        "image": "Images/jason-bay.jpg",
-        "facts": [
-            "Canadian",
-            "The first Pirate to win the National League Rookie of the Year award since Barry Bonds in 1986. The last Pirate's ROY before Paul Skenes."
-            "About equally as attractive as Pau Skenes."
-        ]
-    }
+    ]
