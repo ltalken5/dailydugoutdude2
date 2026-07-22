@@ -25,3 +25,17 @@ fetch("players.json")
     });
 
 });
+const button = document.getElementById("toggle-info");
+const text = document.getElementById("cult-text");
+
+button.addEventListener("click", () => {
+
+    text.classList.toggle("hidden");
+
+    if (text.classList.contains("hidden")) {
+        button.textContent = "ⓘ What is the Cult Hero Score?";
+    } else {
+        button.textContent = "▼ Hide Cult Hero Score Explanation";
+    }
+
+});

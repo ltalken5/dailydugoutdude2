@@ -87,3 +87,36 @@ ul {
     font-size: 14px;
     line-height: 1.5;
 }
+.cult-info {
+    margin-top: 20px;
+}
+
+#toggle-info {
+    width: 100%;
+    background: #0b1f3a;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#toggle-info:hover {
+    background: #15335e;
+}
+
+#cult-text {
+    background: #f8f5e9;
+    border-left: 6px solid #b22222;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 8px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.hidden {
+    display: none;
+}
