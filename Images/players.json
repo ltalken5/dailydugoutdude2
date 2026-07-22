@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "name": "Dock Ellis",
+        "position": "PITCHER",
+        "teams": "Pirates, Yankees, Rangers",
+        "years": "1968–1979",
+        "score": 98,
+        "image": "https://images.unsplash.com/photo-1562077772-3bd90403f7f0?auto=format&fit=crop&w=400&q=80",
+        "facts": [
+            "Famously pitched a no-hitter in 1970 while under the influence of LSD.",
+            "Was a vocal advocate for players' rights and African American athletes.",
+            "Once hit three consecutive batters to 'straighten them out'."
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Bartolo Colón",
+        "position": "PITCHER",
+        "teams": "Indians, Angels, Mets",
+        "years": "1997–2018",
+        "score": 95,
+        "image": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=400&q=80",
+        "facts": [
+            "Known affectionately as 'Big Sexy' by fans and teammates.",
+            "Became the oldest player to hit his first career home run at age 42.",
+            "Played for 11 different MLB franchises over 21 seasons."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Munenori Kawasaki",
+        "position": "SHORTSTOP",
+        "teams": "Mariners, Blue Jays, Cubs",
+        "years": "2012-2016",
+        "score": 89,
+        "image": "Images/munenori-kawasaki.jpg",
+        "facts": [
+            "Famous for his high-energy post-game interviews and 'I am Japanese!' catchphrase.",
+            "Authored a 'handbook' on how to be a teammate.",
+            "Once told reporters his secret to avoiding cramps was eating three bananas a day."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ken Harvey",
+        "position": "First Baseman",
+        "teams": "Royals",
+        "years": "2002-2008",
+        "score": 92,
+        "image": "Images/ken-harvey.jpg",
+        "facts": [
+            "Overweight"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Willie Bloomquist",
+        "position": "Utility Player",
+        "teams": "Mariners, Royals, Reds, Diamondbacks",
+        "years": "2002-2015",
+        "score": 84,
+        "image": "Images/willie-bloomquist.jpg",
+        "facts": [
+            "Played for and coached the Arizona State Sundevils baseball team.",
+            "The ultimate utility man. He played multiple positions throughout his career.",
+            "Kindof looks like Derek Lowe and Justin Verlander had a baby."
+        ]
+    },
+    {
+            "id": 5,
+            "name": "Jason Bay",
+            "position": "Left Fielder",
+            "teams": "Padres, Pirates, Red Sox, Mets, Mariners",
+            "years": "2003-2013",
+            "score": 64,
+            "image": "Images/jason-bay.jpg",
+            "facts": [
+                "Canadian",
+                "The first Pirate to win the National League Rookie of the Year award since Barry Bonds in 1986. The last Pirate to win the award prior to Paul Skenes.",
+                "About equally as attractive as Paul Skenes."
+            ]
+    },
+    {
+            "id": 6,
+            "name": "Esteban Loaiza",
+            "position": "Pitcher",
+            "teams": "Pirates, Rangers, Blue Jays, White Sox, Yankees, Nationals, A's, Dodgers",
+            "years": "1995-2008",
+            "score": 42,
+            "image": "Images/esteban-loaiza.jpg",
+            "facts": [
+                "Married to Mexican Singer Jenni Rivera until her death in 2012. Who? Ask any 40+ year old Mexican woman about Jenni Rivera.",
+                "Was arrested for possessing over 40 pounds (yes 40 pounds) of cocaine in 2018 and sentenced to 3 years in prison.",
+                "Upon his release from prison, he was deported in 2021 before being deported was cool"
+            ]
+    }
+    ]
