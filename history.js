@@ -1,10 +1,15 @@
 fetch("players.json")
-    .then(response => response.json())
-    .then(players => {
+    const launchDate = new Date("2026-07-18");
+const today = new Date();
 
+const daysSinceLaunch = Math.floor(
+    (today - launchDate) / (1000 * 60 * 60 * 24)
+) + 1;
+then(response => response.json())
+    .then(players => {
         const history = document.getElementById("history-list");
 
-        for (let i = 0; i < 30; i++) {
+        for (let i = 0; i < daysSinceLaunch; i++) {
 
             const date = new Date();
             date.setDate(date.getDate() - i);
