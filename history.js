@@ -1,4 +1,4 @@
-const launchDate = new Date("2026-07-18");
+const launchDate = new Date("2026-07-20");
 const today = new Date();
 
 const daysSinceLaunch = Math.floor(
