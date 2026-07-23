@@ -22,7 +22,8 @@
         "score": 92,
         "image": "Images/ken-harvey.jpg",
         "facts": [
-            "Overweight"
+            "The lone representative for the Royals in the 2004 All-Star Game.",
+            "The guy you would not want charging the mound at you before Jorge Soler became that guy."
         ]
     },
     {
@@ -54,17 +55,86 @@
             ]
     },
     {
-            "id": "esteban-loaiza",
-            "name": "Esteban Loaiza",
-            "position": "Pitcher",
-            "teams": "Pirates, Rangers, Blue Jays, White Sox, Yankees, Nationals, A's, Dodgers",
-            "years": "1995-2008",
-            "score": 42,
-            "image": "Images/esteban-loaiza.jpg",
-            "facts": [
-                "Married to Mexican Singer Jenni Rivera until her death in 2012. Who? Ask any 40+ year old Mexican woman about Jenni Rivera.",
-                "Was arrested for possessing over 40 pounds (yes 40 pounds) of cocaine in 2018 and sentenced to 3 years in prison.",
-                "Upon his release from prison, he was deported in 2021 before being deported was cool"
-            ]
+        "id": "esteban-loaiza",
+        "name": "Esteban Loaiza",
+        "position": "Pitcher",
+        "teams": "Pirates, Rangers, Blue Jays, White Sox, Yankees, Nationals, A's, Dodgers",
+        "years": "1995-2008",
+        "score": 42,
+        "image": "Images/esteban-loaiza.jpg",
+        "facts": [
+            "Married to Mexican Singer Jenni Rivera until her death in 2012. Who? Ask any 40+ year old Mexican woman about Jenni Rivera.",
+            "Was arrested for possessing over 40 pounds (yes 40 pounds) of cocaine in 2018 and sentenced to 3 years in prison.",
+            "Upon his release from prison, he was deported in 2021 before being deported was cool"
+        ]
+    },
+    {
+        "id": "mike-cameron",
+        "name": "Mike Cameron",
+        "position": "Center Fielder",
+        "teams": "White Sox, Reds, Mariners, Mets, Padres, Brewers, Red Sox, Marlins",
+        "years": "1995-2011",
+        "score": 60,
+        "image": "Images/mike-cameron.jpg",
+        "facts": [
+            "One of the key trailblazers in the tilted cap movement that was recently concluded by Fernando Rodney.",
+            "Played eight different teams in his 17-year career, but is most remembered for his time with the Seattle Mariners.",
+            "Notably took over for Ken Griffey Jr. in center field for the Mariners after Griffey was traded to the Reds."
+        ]
+    },
+    {
+        "id": "lyle-overbay",
+        "name": "Lyle Overbay",
+        "position": "First Baseman",
+        "teams": "Diamondbacks, Brewers, Blue Jays, Pirates, Yankees, Braves",
+        "years": "2001-2014",
+        "score": 62,
+        "image": "Images/lyle-overbay.jpg",
+        "facts": [
+            "Although just a rookie bench warmer, he was a member of the 2001 World Series Champion Arizona Diamondbacks.",
+            "Finished his career with a 0.00 ERA after retiring Ryan Doumit, the only batter faced in his lone pitching appearance.",
+            "Known as Lyle Overpaid for his large contract with the Blue Jays."
+        ]
+    },
+    {
+        "id": "miguel-cairo",
+        "name": "Miguel Cairo",
+        "position": "Infield Utility Player",
+        "teams": "Blue Jays, Cubs, Cardinals, Yankees, Mets, Mariners, Phillies, Reds",
+        "years": "1996-2012",
+        "score": 49,
+        "image": "Images/miguel-cairo.jpg",
+        "facts": [
+            "As does any Venezuelan born in the 1970s, he has ten siblings.",
+            "The true personification of a 'that guy is still around?' player come every opening day during the 2000s.",
+            "Has the perfect baseball name."
+        ]
+    },
+    {
+        "id": "ronnie-belliard",
+        "name": "Ronnie Belliard",
+        "position": "Second Baseman, Third Baseman",
+        "teams": "Brewers, Rockies, Indians, Cardinals, Nationals, Dodgers",
+        "years": "1998-2010",
+        "score": 55,
+        "image": "Images/ronnie-belliard.jpg",
+        "facts": [
+            "Nicknamed 'La Pared' (The Wall) for his defensive skillset.",
+            "Was a member of the 2006 World Series Champion Cardinals.",
+            "The Dodgers put a clause in his contract that he had to stay under 210 pounds."
+        ]
+    },
+        {"id": "fernando-vina",
+        "name": "Fernando Vina",
+        "position": "Second Baseman",
+        "teams": "Mariners, Mets, Brewers, Cardinals, Tigers",
+        "years": "1993-2004",
+        "score": 70,
+        "image": "Images/fernando-vina.jpg",
+        "facts": [
+            "Made an appearance in the 'Welcome to Atlanta (Coast 2 Coast Remix)' music video by Jermaine Dupri featuring Nelly and the St. Lunatics",
+            "Posted an incredibly low 6.2% strikeout percentage over his career.",
+            "While his mom was pregnant with him, she attempted to flee Cuba twice on a boat. Eventually his parents were successful and arrived in Key West in 1968."
+        ]
     }
-    ]
+]
