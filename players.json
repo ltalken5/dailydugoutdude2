@@ -1,34 +1,6 @@
 [
     {
-        "id": 0,
-        "name": "Dock Ellis",
-        "position": "PITCHER",
-        "teams": "Pirates, Yankees, Rangers",
-        "years": "1968–1979",
-        "score": 98,
-        "image": "https://images.unsplash.com/photo-1562077772-3bd90403f7f0?auto=format&fit=crop&w=400&q=80",
-        "facts": [
-            "Famously pitched a no-hitter in 1970 while under the influence of LSD.",
-            "Was a vocal advocate for players' rights and African American athletes.",
-            "Once hit three consecutive batters to 'straighten them out'."
-        ]
-    },
-    {
-        "id": 1,
-        "name": "Bartolo Colón",
-        "position": "PITCHER",
-        "teams": "Indians, Angels, Mets",
-        "years": "1997–2018",
-        "score": 95,
-        "image": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=400&q=80",
-        "facts": [
-            "Known affectionately as 'Big Sexy' by fans and teammates.",
-            "Became the oldest player to hit his first career home run at age 42.",
-            "Played for 11 different MLB franchises over 21 seasons."
-        ]
-    },
-    {
-        "id": 2,
+        "id": "munenori-kawasaki",
         "name": "Munenori Kawasaki",
         "position": "SHORTSTOP",
         "teams": "Mariners, Blue Jays, Cubs",
@@ -42,7 +14,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": "ken-harvey",
         "name": "Ken Harvey",
         "position": "First Baseman",
         "teams": "Royals",
@@ -54,7 +26,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": "willie-bloomquist",
         "name": "Willie Bloomquist",
         "position": "Utility Player",
         "teams": "Mariners, Royals, Reds, Diamondbacks",
@@ -68,7 +40,7 @@
         ]
     },
     {
-            "id": 5,
+            "id": "jason-bay",
             "name": "Jason Bay",
             "position": "Left Fielder",
             "teams": "Padres, Pirates, Red Sox, Mets, Mariners",
@@ -79,6 +51,20 @@
                 "Canadian",
                 "The first Pirate to win the National League Rookie of the Year award since Barry Bonds in 1986. The last Pirate to win the award prior to Paul Skenes.",
                 "About equally as attractive as Paul Skenes."
+            ]
+    },
+    {
+            "id": "esteban-loaiza",
+            "name": "Esteban Loaiza",
+            "position": "Pitcher",
+            "teams": "Pirates, Rangers, Blue Jays, White Sox, Yankees, Nationals, A's, Dodgers",
+            "years": "1995-2008",
+            "score": 42,
+            "image": "Images/esteban-loaiza.jpg",
+            "facts": [
+                "Married to Mexican Singer Jenni Rivera until her death in 2012. Who? Ask any 40+ year old Mexican woman about Jenni Rivera.",
+                "Was arrested for possessing over 40 pounds (yes 40 pounds) of cocaine in 2018 and sentenced to 3 years in prison.",
+                "Upon his release from prison, he was deported in 2021 before being deported was cool"
             ]
     }
     ]
