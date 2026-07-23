@@ -5,7 +5,7 @@
         "position": "SHORTSTOP",
         "teams": "Mariners, Blue Jays, Cubs",
         "years": "2012-2016",
-        "score": 89,
+        "score": 33,
         "image": "Images/munenori-kawasaki.jpg",
         "facts": [
             "Famous for his high-energy post-game interviews and 'I am Japanese!' catchphrase.",
@@ -19,7 +19,7 @@
         "position": "First Baseman",
         "teams": "Royals",
         "years": "2002-2008",
-        "score": 92,
+        "score": 78,
         "image": "Images/ken-harvey.jpg",
         "facts": [
             "The lone representative for the Royals in the 2004 All-Star Game.",
@@ -32,7 +32,7 @@
         "position": "Utility Player",
         "teams": "Mariners, Royals, Reds, Diamondbacks",
         "years": "2002-2015",
-        "score": 84,
+        "score": 61,
         "image": "Images/willie-bloomquist.jpg",
         "facts": [
             "Played for and coached the Arizona State Sundevils baseball team.",
@@ -46,7 +46,7 @@
             "position": "Left Fielder",
             "teams": "Padres, Pirates, Red Sox, Mets, Mariners",
             "years": "2003-2013",
-            "score": 64,
+            "score": 42,
             "image": "Images/jason-bay.jpg",
             "facts": [
                 "Canadian",
@@ -60,7 +60,7 @@
         "position": "Pitcher",
         "teams": "Pirates, Rangers, Blue Jays, White Sox, Yankees, Nationals, A's, Dodgers",
         "years": "1995-2008",
-        "score": 42,
+        "score": 39,
         "image": "Images/esteban-loaiza.jpg",
         "facts": [
             "Married to Mexican Singer Jenni Rivera until her death in 2012. Who? Ask any 40+ year old Mexican woman about Jenni Rivera.",
@@ -74,7 +74,7 @@
         "position": "Center Fielder",
         "teams": "White Sox, Reds, Mariners, Mets, Padres, Brewers, Red Sox, Marlins",
         "years": "1995-2011",
-        "score": 60,
+        "score": 50,
         "image": "Images/mike-cameron.jpg",
         "facts": [
             "One of the key trailblazers in the tilted cap movement that was recently concluded by Fernando Rodney.",
@@ -88,7 +88,7 @@
         "position": "First Baseman",
         "teams": "Diamondbacks, Brewers, Blue Jays, Pirates, Yankees, Braves",
         "years": "2001-2014",
-        "score": 62,
+        "score": 58,
         "image": "Images/lyle-overbay.jpg",
         "facts": [
             "Although just a rookie bench warmer, he was a member of the 2001 World Series Champion Arizona Diamondbacks.",
@@ -129,7 +129,7 @@
         "position": "Second Baseman",
         "teams": "Mariners, Mets, Brewers, Cardinals, Tigers",
         "years": "1993-2004",
-        "score": 70,
+        "score": 60,
         "image": "Images/fernando-vina.jpg",
         "facts": [
             "Made an appearance in the 'Welcome to Atlanta (Coast 2 Coast Remix)' music video by Jermaine Dupri featuring Nelly and the St. Lunatics",
