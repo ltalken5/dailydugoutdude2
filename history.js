@@ -22,26 +22,31 @@ Promise.all([
         const date = new Date();
         date.setDate(date.getDate() - i);
 
-       const dateString = 
-    date.getFullYear() + "-" +
-    String(date.getMonth() + 1).padStart(2, "0") + "-" +
-    String(date.getDate()).padStart(2, "0");
+        const dateString =
+            date.getFullYear() + "-" +
+            String(date.getMonth() + 1).padStart(2, "0") + "-" +
+            String(date.getDate()).padStart(2, "0");
+
 
         const entry = schedule.find(
             item => item.date === dateString
         );
 
+
         if (!entry) {
             continue;
         }
+
 
         const player = players.find(
             p => p.id === entry.player
         );
 
+
         if (!player) {
             continue;
         }
+
 
         history.innerHTML += `
             <div class="history-card">
@@ -65,4 +70,7 @@ Promise.all([
 
     }
 
+})
+.catch(error => {
+    console.log(error);
 });
