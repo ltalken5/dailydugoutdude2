@@ -22,7 +22,10 @@ Promise.all([
         const date = new Date();
         date.setDate(date.getDate() - i);
 
-        const dateString = date.toISOString().split("T")[0];
+       const dateString = 
+    date.getFullYear() + "-" +
+    String(date.getMonth() + 1).padStart(2, "0") + "-" +
+    String(date.getDate()).padStart(2, "0");
 
         const entry = schedule.find(
             item => item.date === dateString
