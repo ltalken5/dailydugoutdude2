@@ -6,41 +6,60 @@ const daysSinceLaunch = Math.floor(
 ) + 1;
 
 
-fetch("players.json")
-    .then(response => response.json())
-    .then(players => {
+Promise.all([
+    fetch("players.json").then(r => r.json()),
+    fetch("schedule.json").then(r => r.json())
+])
 
-        const history = document.getElementById("history-list");
+.then(([players, schedule]) => {
 
-        for (let i = 0; i < daysSinceLaunch; i++) {
+    const history = document.getElementById("history-list");
 
-            const date = new Date();
-            date.setDate(date.getDate() - i);
+    history.innerHTML = "";
 
-            const number = date.getDate() + date.getMonth();
+    for (let i = 0; i < daysSinceLaunch; i++) {
 
-            const player = players[number % players.length];
+        const date = new Date();
+        date.setDate(date.getDate() - i);
 
-            history.innerHTML += `
-                <div class="history-card">
+        const dateString = date.toISOString().split("T")[0];
 
-                    <img src="${player.image}" width="80">
+        const entry = schedule.find(
+            item => item.date === dateString
+        );
 
-                    <div>
+        if (!entry) {
+            continue;
+        }
 
-                        <strong>${date.toDateString()}</strong><br>
+        const player = players.find(
+            p => p.id === entry.player
+        );
 
-                        ${player.name}<br>
+        if (!player) {
+            continue;
+        }
 
-                        Cult Hero Score: ${player.score}
+        history.innerHTML += `
+            <div class="history-card">
 
-                    </div>
+                <img src="${player.image}" width="80">
+
+                <div>
+
+                    <strong>${date.toDateString()}</strong><br>
+
+                    ${player.name}<br>
+
+                    Cult Hero Score: ${player.score}
 
                 </div>
 
-                <hr>
-            `;
+            </div>
 
-        }
+            <hr>
+        `;
 
-    });
+    }
+
+});
