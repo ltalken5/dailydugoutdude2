@@ -49,24 +49,24 @@ Promise.all([
 
 
         history.innerHTML += `
-            <div class="history-card">
+    <a href="player.html?id=${player.id}" class="history-card">
 
-                <img src="${player.image}" width="80">
+        <img src="${player.image}" width="80">
 
-                <div>
+        <div>
 
-                    <strong>${date.toDateString()}</strong><br>
+            <strong>${date.toDateString()}</strong><br>
 
-                    ${player.name}<br>
+            ${player.name}<br>
 
-                    Cult Hero Score: ${player.score}
+            Cult Hero Score: ${player.score}
 
-                </div>
+        </div>
 
-            </div>
+    </a>
 
-            <hr>
-        `;
+    <hr>
+`;
 
     }
 
