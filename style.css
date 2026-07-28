@@ -121,27 +121,35 @@ ul {
     display: none;
 }
 .history-card {
-
     display: flex;
-
     align-items: center;
-
     gap: 15px;
 
     margin: 15px 0;
+    padding: 15px;
 
+    border: 2px solid #0b1f3a;
+    border-radius: 10px;
+    background: #fffdf7;
+
+    text-decoration: none;
+    color: inherit;
+
+    cursor: pointer;
+
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.history-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 12px rgba(0,0,0,.15);
+    border-color: #b22222;
 }
 
 .history-card img {
-
     width: 80px;
-
     height: 80px;
-
     object-fit: cover;
-
     border-radius: 8px;
-
     border: 3px solid #0b1f3a;
-
 }
