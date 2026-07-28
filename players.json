@@ -106,8 +106,7 @@
         "image": "Images/miguel-cairo.jpg",
         "facts": [
             "As does any Venezuelan born in the 1970s, he has ten siblings.",
-            "The true personification of a 'that guy is still around?' player come every opening day during the 2000s.",
-            "Has the perfect baseball name."
+            "The true personification of a 'that guy is still around?' player come every opening day during the 2000s."
         ]
     },
     {
@@ -135,6 +134,60 @@
             "Made an appearance in the 'Welcome to Atlanta (Coast 2 Coast Remix)' music video by Jermaine Dupri featuring Nelly and the St. Lunatics",
             "Posted an incredibly low 6.2% strikeout percentage over his career.",
             "While his mom was pregnant with him, she attempted to flee Cuba twice on a boat. Eventually his parents were successful and arrived in Key West in 1968."
+        ]
+    },
+    {
+        "id": "ryan-klesko",
+        "name": "Ryan Klesko",
+        "position": "First Baseman, Left Fielder",
+        "teams": "Braves, Padres, Giants",
+        "years": "1992-2007",
+        "score": 58,
+        "image": "Images/ryan-klesko.jpeg",
+        "facts": [
+            "Looked more like the lead singer of 90's post-grunge band than a baseball player.",
+            "Was a member of the 1995 World Series Champion Braves.",
+            "In 2014 he was inducted into the National Polish-American Sports Hall of Fame in Troy, Michigan, an honor shared with A.J. Pierzynski."
+        ]
+    },
+    {"id": "khalil-greene",
+        "name": "Khalil Greene",
+        "position": "Shortstop",
+        "teams": "Padres",
+        "years": "2003-2009",
+        "score": 79,
+        "image": "Images/khalil-greene.jpeg",
+        "facts": [
+            "Looks absolutely nothing like his name is Khalil Greene.",
+            "Sean Penn doppelganger. (Look up Spicoli from Fast Times at Ridgemont High.)",
+            "Won the 2002 Golden Spikes award at Clemson."
+        ]
+    },
+    {
+        "id": "nick-punto",
+        "name": "Nick Punto",
+        "position": "Utility Player",
+        "teams": "Phillies, Twins, Cardinals, Red Sox, Dodgers, Athletics",
+        "years": "2001-2014",
+        "score": 69,
+        "image": "Images/nick-punto.jpeg",
+        "facts": [
+            "The ultimate hustle guy. Commonly known for diving everywhere and sliding headfirst into first base.",
+            "Won the 2011 World Series with the St. Louis Cardinals.",
+            "Had 3253 at bats over his career but only hit 19 home runs."
+        ]
+    },
+    {"id": "trot-nixon",
+        "name": "Trot Nixon",
+        "position": "Right Fielder",
+        "teams": "Red Sox, Indians, Mets",
+        "years": "1996-2008",
+        "score": 79,
+        "image": "Images/trot-nixon.jpeg",
+        "facts": [
+            "Full name is Christopher Trotman Nixon.",
+            "Looks exactly like his name is Trot Nixon, unlike Khalil Greene (see Khalil Greene from July 31).",
+            "Member of the 2004 World Series Champion Red Sox."
         ]
     }
 ]
