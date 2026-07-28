@@ -1,4 +1,18 @@
-Promise.all([
+const dateElement = document.getElementById("today-date");
+
+if (dateElement) {
+
+    const today = new Date();
+
+    const formattedDate = today.toLocaleDateString("en-US", {
+        month: "long",
+        day: "numeric",
+        year: "numeric"
+    });
+
+    dateElement.textContent = formattedDate;
+
+}Promise.all([
     fetch("players.json").then(r => r.json()),
     fetch("schedule.json").then(r => r.json())
 ])

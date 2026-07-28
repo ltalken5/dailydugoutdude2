@@ -153,3 +153,10 @@ ul {
     border-radius: 8px;
     border: 3px solid #0b1f3a;
 }
+#today-date {
+    color: #555;
+    font-style: italic;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
