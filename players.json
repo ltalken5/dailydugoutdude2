@@ -189,5 +189,31 @@
             "Looks exactly like his name is Trot Nixon, unlike Khalil Greene (see Khalil Greene from July 31).",
             "Member of the 2004 World Series Champion Red Sox."
         ]
+    },
+    {"id": "shea-hillenbrand",
+        "name": "Shea Hillenbrand",
+        "position": "Third Baseman and First Baseman",
+        "teams": "Red Sox, Diamondbacks, Blue Jays, Giants, Angels, Dodgers",
+        "years": "2001-2007",
+        "score": 81,
+        "image": "Images/shea-hillenbrand.jpg",
+        "facts": [
+            "Owns a 38-acre farm in Gilbert, Arizona, housing over 90 animals including a Galapagos tortoise, an Australian wallaby, miniature horses, and llamas",
+            "Appeared on House Hunter's International in 2017 with his second wife, where they were looking for a home in the Dominican Republic.",
+            "Openly criticized the Blue Jays' organization for not congratulating him on adopting a daughter. This weird incident basically ruined his relationship with the team and led to his departure in 2006."
+        ]
+    },
+    {"id": "richie-sexson",
+        "name": "Richie Sexson",
+        "position": "First Baseman andLeft Fielder",
+        "teams": "Indians, Brewers, Diamondbacks, Mariners, Yankees",
+        "years": "1997-2008",
+        "score": 32,
+        "image": "Images/richie-sexson.jpg",
+        "facts": [
+            "Measured 6 feet 8 inches tall.",
+            "Arrested in Clark County, Washington for Driving Under the Influence in 2005.",
+            "Nicknamed 'Big Sexy'."
+        ]
     }
 ]
