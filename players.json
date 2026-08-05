@@ -205,7 +205,7 @@
     },
     {"id": "richie-sexson",
         "name": "Richie Sexson",
-        "position": "First Baseman andLeft Fielder",
+        "position": "First Baseman and Left Fielder",
         "teams": "Indians, Brewers, Diamondbacks, Mariners, Yankees",
         "years": "1997-2008",
         "score": 32,
@@ -214,6 +214,32 @@
             "Measured 6 feet 8 inches tall.",
             "Arrested in Clark County, Washington for Driving Under the Influence in 2005.",
             "Nicknamed 'Big Sexy'."
+        ]
+    },
+    {"id": "placido-polanco",
+        "name": "Placido Polanco",
+        "position": "Second Baseman, Third Baseman, Shortstop",
+        "teams": "Cardinals, Phillies, Tigers, Marlins",
+        "years": "1998-2013",
+        "score": 41,
+        "image": "Images/placido-polanco.jpg",
+        "facts": [
+            "Set a major league milestone by playing 186 consecutive error-free games at second base, spanning 911 total defensive chances from 2006 to 2007.",
+            "Became a U.S. citizen in 2017 while wearing a Detroit Tigers jersey at Comerica Park.",
+            "Loved to choke up on the bat; arguably a lost art in today's game."
+        ]
+    },
+    {"id": "wes-helms",
+        "name": "Wes Helms",
+        "position": "Third Baseman and First Baseman",
+        "teams": "Braves, Brewers, Marlins, Phillies",
+        "years": "2000-2011",
+        "score": 58,
+        "image": "Images/wes-helms.jpg",
+        "facts": [
+            "Managed the Triple A Charlotte Knights after his playing career.",
+            "Part of the 2006 Marlins that started nine rookies, earning him the nickname 'Uncle Wes' as the elder veteran among the team.",
+            "Honestly a very boring player. Did a solid twelve years in the majors without doing anything notable."
         ]
     }
 ]
