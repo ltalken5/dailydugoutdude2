@@ -241,5 +241,44 @@
             "Part of the 2006 Marlins that started nine rookies, earning him the nickname 'Uncle Wes' as the elder veteran among the team.",
             "Honestly a very boring player. Did a solid twelve years in the majors without doing anything notable."
         ]
+    },
+    {"id": "rafael-furcal",
+        "name": "Rafael Furcal",
+        "position": "Shortstop",
+        "teams": "Braves, Dodgers, Cardinals, Marlins",
+        "years": "2000-2014",
+        "score": 34,
+        "image": "Images/rafael-furcal.jpg",
+        "facts": [
+            "Lied about his age as an Amateur Dominican baseball player, claiming to be 19 years old when he was actually 22.",
+            "Was arrested for a DUI in a Kroger's parking lot in 2000. He was going to be charged with minor in consumption at the time as well, but his real birth certificate showing his age proved him to be 22 years old.",
+            "In 2025, (this time in a Publix grocery store parking lot) he was charged with aggravated battery with a deadly weapon for throwing rocks and a plastic bottle at a truck driver."
+        ]
+    },
+    {"id": "so-taguchi",
+        "name": "So Taguchi",
+        "position": "Pitcher",
+        "teams": "Cardinals, Phillies, Cubs",
+        "years": "2002-2009",
+        "score": 43,
+        "image": "Images/so-taguchi.jpg",
+        "facts": [
+            "Only Cardinals player in history to wear the #99.",
+            "Learned English by watching animated movies like Finding Nemo and Monsters Inc..",
+            "Won 2 World Series - 2006 with the Cardinals and 2008 with the Phillies."
+        ]
+    },
+    {"id": "mike-macdougal",
+        "name": "Mike MacDougal",
+        "position": "Pitcher",
+        "teams": "Royals, White Sox, Nationals, Cardinals, Dodgers",
+        "years": "2001-2012",
+        "score": 70,
+        "image": "Images/mike-macdougal.jpg",
+        "facts": [
+            "His real name is Robert Meiklejohn MacDougal.",
+            "In 2002 while playing for the Royals, he was in the dugout while Carlos Beltran was up to bat. Beltran swang the bat and lost his grip which resulted in the bat flying and hitting Macdougal square in the skull. He suffered a cracked skull right above his right temple.",
+            "A member of the Wake Forest Sports Hall of Fame."
+        ]
     }
 ]
