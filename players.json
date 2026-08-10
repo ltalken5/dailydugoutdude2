@@ -280,5 +280,106 @@
             "In 2002 while playing for the Royals, he was in the dugout while Carlos Beltran was up to bat. Beltran swang the bat and lost his grip which resulted in the bat flying and hitting Macdougal square in the skull. He suffered a cracked skull right above his right temple.",
             "A member of the Wake Forest Sports Hall of Fame."
         ]
+    },
+    {
+        "id": "cesar-izturis",
+        "name": "Cesar Izturis",
+        "position": "Shortstop, Second Baseman, Third Baseman",
+        "teams": "Blue Jays, Dodgers, Cubs, Pirates, Cardinals, Orioles, Brewers, Nationals, Reds",
+        "years": "2001-2013",
+        "score": 46,
+        "image": "Images/cesar-izturis.jpg",
+        "facts": [
+            "Was traded from the Dodgers to the Cubs in exchange for Greg Maddux.",
+            "The first player in MLB history to have a last name that starts with 'I' and ends with 'S' until 2004 when his brother Maicer Izturis debuted with the Montreal Expos.",
+            "Serves as a bench coach for the Toros de Tijuana in the Liga Mexicana del Pacífico."
+        ]
+    },
+    {
+        "id": "aaron-rowand",
+        "name": "Aaron Rowand",
+        "position": "Center Fielder",
+        "teams": "White Sox, Phillies, Giants",
+        "years": "2001-2011",
+        "score": 50,
+        "image": "Images/aaron-rowand.jpg",
+        "facts": [
+            "Won the 2005 World Series with the Chicago White Sox and again in 2010 with the San Francisco Giants.",
+            "Is cousins with former pitcher James Shields.",
+            "On May 11, 2006 he made his signature wall-crashing catch, breaking his nose and facial bones while simultaneously denting the 'M' in the 'W.B. Mason' sign in Philadelphia."
+        ]
+    },
+    {
+        "id": "hank-blalock",
+        "name": "Hank Blalock",
+        "position": "First Baseman and Third Baseman",
+        "teams": "Rangers, Rays",
+        "years": "2002-2010",
+        "score": 43,
+        "image": "Images/hank-blalock.jpg",
+        "facts": [
+            "While playing in the minors for the Rangers', he hit for the cycle twice in one week.",
+            "Had a fan club called 'Hank's Homies,' a group of Rangers fans who wore cowboy hats, eyeblack, and Blalock jerseys.",
+            "Played third base while Alex Rodriguez manned Shortstop for the early part of his time with the Rangers."
+        ]
+    },
+    {
+        "id": "delmon-young",
+        "name": "Delmon Young",
+        "position": "Outfielder, Designated Hitter",
+        "teams": "Rays, Twins, Tigers, Phillies, Orioles",
+        "years": "2006-2015",
+        "score": 39,
+        "image": "Images/delmon-young.jpg",
+        "facts": [
+            "Was the first overall pick in the 2003 MLB Draft by the Tampa Bay Devil Rays.",
+            "Younger brother of former MLB player Dmitri Young.",
+            "Was arrested in 20212 in New York City for aggravated harassment after shouting antisemitic slurs and tackling a man during an drunk dispute. Four years later in Miami, he doubled down on his stupidity and faced battery charges for choking a hotel valet and using anti-Hispanic slurs, though that case was eventually dismissed."
+        ]
+    },
+    {
+        "id": "dmitri-young",
+        "name": "Dmitri Young",
+        "position": "First Baseman, Outfielder",
+        "teams": "Cardinals, Reds, Tigers, Nationals",
+        "years": "1996-2008",
+        "score": 53,
+        "image": "Images/dmitri-young.jpg",
+        "facts": [
+            "Older brother of yesterday's Daily Dugout Dude, Delmon Young.",
+            "Nicknamed Dmitri 'Da Meat Hook' Young.",
+            "Made a memorable appearance at WWE's Survivor Series 2005.",
+            "Weighed 295 at his peak weight during his playing career.",
+            "Just like his brother's legal troubles Dmitri had his own issues - He was sentenced to one year of probation following a 2006 misdemeanor domestic violence arrest in Michigan. Then again in 2010, he faced misdemeanor charges in Illinois for possession of marijuana and drug paraphernalia."
+        ]
+    },
+    {
+        "id": "danny-graves",
+        "name": "Danny Graves",
+        "position": "Pitcher",
+        "teams": "Indians, Reds, Mets",
+        "years": "1996-2006",
+        "score": 53,
+        "image": "Images/danny-graves.jpg",
+        "facts": [
+            "Born in Saigon, Vietnam, he is the only Vietnamese born player in Major League Baseball history.",
+            "Helped build Vietnam's first baseball field in 2006 with the Vietnam Veterans Memorial Fund. As of today, this baseball field has been converted into a soccer field. Great job Vietnam and great job Danny.",
+            "Was inducted into the Cincinnati Reds Hall of Fame in 2023."
+        ]
+    },
+    {
+        "id": "walter-young",
+        "name": "Walter Young",
+        "position": "Left Fielder",
+        "teams": "Orioles",
+        "years": "2005",
+        "score": 93,
+        "image": "Images/walter-young.jpg",
+        "facts": [
+            "Chose to sign with the Pittsburgh Pirates after the 1999 draft over his football scholarship to play Defensive End for LSU.",
+            "Listed as 6'5 322 pounds while playing for the Orioles. He is the heaviest player in Major League Baseball history to date.",
+            "Following his ten games with the Orioles, he quit baseball in 2010 and joined the Forrest County Sheriff's Department in Mississippi and began working as a shift sergeant at the county jail.",
+            "After what I could only assume was a terribly ineffective career as a shift sergeant based on his weight, he died on September 19, 2015, of a heart attack. He weighed 450 pounds at the time of his death."
+        ]
     }
 ]
