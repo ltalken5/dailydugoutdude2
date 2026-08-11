@@ -373,13 +373,42 @@
         "position": "Left Fielder",
         "teams": "Orioles",
         "years": "2005",
-        "score": 93,
+        "score": 97,
         "image": "Images/walter-young.jpg",
         "facts": [
             "Chose to sign with the Pittsburgh Pirates after the 1999 draft over his football scholarship to play Defensive End for LSU.",
             "Listed as 6'5 322 pounds while playing for the Orioles. He is the heaviest player in Major League Baseball history to date.",
             "Following his ten games with the Orioles, he quit baseball in 2010 and joined the Forrest County Sheriff's Department in Mississippi and began working as a shift sergeant at the county jail.",
             "After what I could only assume was a terribly ineffective career as a shift sergeant based on his weight, he died on September 19, 2015, of a heart attack. He weighed 450 pounds at the time of his death."
+        ]
+    },
+    {
+        "id": "jason-kendall",
+        "name": "Jason Kendall",
+        "position": "Catcher",
+        "teams": "Pirates, Athletics, Cubs, Brewers, Royals",
+        "years": "1996-2010",
+        "score": 23,
+        "image": "Images/jason-kendall.jpg",
+        "facts": [
+            "Typically batted leadoff for the Pirates. Uncommon for a catcher.",
+            "Holds the record for most stolen bases by a catcher with 189.",
+            "Born on June 26, 1974. The exact same date as Derek Jeter."
+        ]
+    }
+,
+    {
+        "id": "rocco-baldelli",
+        "name": "Rocco Baldelli",
+        "position": "Center Fielder",
+        "teams": "Rays, Red Sox",
+        "years": "2003-2010",
+        "score": 32,
+        "image": "Images/rocco-baldelli.jpg",
+        "facts": [
+            "Member of the Rhode Island Italian-American Hall of Fame. An honor shared with Jay Leno.",
+            "Managed the Minnesota Twins from 2019-2025.",
+            "Diagnosed with a rare metabolic disorder called mitochondrial disease in 2007, which caused him to miss most of the 2007 and 2008 seasons."
         ]
     }
 ]
