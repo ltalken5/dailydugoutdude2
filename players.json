@@ -430,12 +430,54 @@
         "position": "Pitcher",
         "teams": "Expos, Yankees, Athletics, Bluejays, Cubs, Dodgers, Jays",
         "years": "1999-2013",
-        "score": 52,
+        "score": 49,
         "image": "Images/ted-lilly.jpg",
         "facts": [
             "Tried to play in the Venezuelan Winter League in 2013 to prove he still had it...he did not and retired shortly after that stint.",
             "His full name is Theodore Roosevelt Lilly III.",
             "Was charged with three counts of felony insurance fraud in January 2015."
+        ]
+    },
+    {
+        "id": "scott-rolen",
+        "name": "Scott Rolen",
+        "position": "Third Baseman",
+        "teams": "Phillies, Cardinals, Blue Jays, Reds",
+        "years": "1996-2012",
+        "score": 22,
+        "image": "Images/scott-rolen.jpg",
+        "facts": [
+            "Every single one of his 17,000+ professional defensive innings came strictly at third base.",
+            "The first Daily Dugout Dude that is a member of the MLB Hall of Fame.",
+            "Originally had committed to play baseball at Georgia before getting drafted in the second round by the Phillies."
+        ]
+    },
+    {
+        "id": "xavier-nady",
+        "name": "Xavier Nady",
+        "position": "Outfielder",
+        "teams": "Padres, Mets, Pirates, Yankees, Cubs, Diamondbacks, Nationals, Giants",
+        "years": "2000-2014",
+        "score": 53,
+        "image": "Images/xavier-nady.jpg",
+        "facts": [
+            "His full name is Xavier Clifford Nady VI.",
+            "Was a UC Berkley baseball legend. He left as the school's all-time leader in home runs (57), RBIs (191), total bases (479), and slugging percentage (.729).",
+            "World Series champion with the SF Giants in 2012."
+        ]
+    },
+    {
+        "id": "grady-sizemore",
+        "name": "Grady Sizemore",
+        "position": "Outfielder",
+        "teams": "Indians, Red Sox, Phillies, Rays",
+        "years": "2004-2015",
+        "score": 44,
+        "image": "Images/grady-sizemore.jpg",
+        "facts": [
+            "In 2023, after retiring, he accepted a $15/hour internship with the Diamondbacks to stay close to the game.",
+            "Was the interim manager for the White Sox in 2024 after the team fired Pedro Grifol.",
+            "Ah yes, the picture...in 2009 his playboy playmate girlfriend, Brittany Binger, had her email hacked by a stalker. The hacker found this picture of Grady Sizemore and leaked it."
         ]
     }
 ]
