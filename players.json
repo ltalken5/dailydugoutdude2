@@ -479,5 +479,48 @@
             "Was the interim manager for the White Sox in 2024 after the team fired Pedro Grifol.",
             "Ah yes, the picture...in 2009 his playboy playmate girlfriend, Brittany Binger, had her email hacked by a stalker. The hacker found this picture of Grady Sizemore and leaked it."
         ]
+    },
+    {
+        "id": "mark-grudzielanek",
+        "name": "Mark Grudzielanek",
+        "position": "Second Baseman, Shortstop",
+        "teams": "Expos, Dodgers, Cubs, Cardinals, Royals, Indians",
+        "years": "1995-2010",
+        "score": 40,
+        "image": "Images/mark-grudzielanek.jpg",
+        "facts": [
+            "Won a Gold Glove with the Royals in 2006.",
+            "A member of the illustrious National Polish-American Sports Hall of Fame. The honor shared with fellow former DDD, Ryan Klesko.",
+            "Was moved to play second base upon arriving to play for the Dodgers so that Alex Cora could play shortstop."
+        ]
+    },
+    {
+        "id": "latroy-hawkins",
+        "name": "LaTroy Hawkins",
+        "position": "Pitcher",
+        "teams": "Twins, Cubs, Giants, Orioles, Rockies, Yankees, Astros, Brewers, Angels, Mets, Blue Jays",
+        "years": "1995-2015",
+        "score": 41,
+        "image": "Images/latroy-hawkins.jpg",
+        "facts": [
+            "In May 2025 he received his bachelor's degree from Southern New Hampshire University. The honor shared with thousands of military wives and single mothers across the country.",
+            "He is the Godfather of Patrick Mahomes II, 3 time Super Bowl champion.",
+            "He has gotten a Save against every MLB team."
+        ]
+    },
+    {
+        "id": "matt-stairs",
+        "name": "Matt Stairs",
+        "position": "Outfielder",
+        "teams": "Expos, Red Sox, Athletics, Cubs, Brewers, Pirates, Royals, Rangers, Tigers, Blue Jays, Phillies, Padres, Nationals",
+        "years": "1992-2011",
+        "score": 49,
+        "image": "Images/matt-stairs.jpg",
+        "facts": [
+            "Holds the all time record for pinch hit home runs with 23.",
+            "A member of the Canadian Baseball Hall of Fame, an honr shared with former DDD, Jason Bay.",
+            "Coached high school hockey in Canada at Fredericton High School in 2012."
+        ]
     }
+    
 ]
