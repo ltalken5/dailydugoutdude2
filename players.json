@@ -155,7 +155,7 @@
         "position": "Shortstop",
         "teams": "Padres",
         "years": "2003-2009",
-        "score": 79,
+        "score": 75,
         "image": "Images/khalil-greene.jpeg",
         "facts": [
             "Looks absolutely nothing like his name is Khalil Greene.",
@@ -169,7 +169,7 @@
         "position": "Utility Player",
         "teams": "Phillies, Twins, Cardinals, Red Sox, Dodgers, Athletics",
         "years": "2001-2014",
-        "score": 69,
+        "score": 66,
         "image": "Images/nick-punto.jpeg",
         "facts": [
             "The ultimate hustle guy. Commonly known for diving everywhere and sliding headfirst into first base.",
@@ -182,7 +182,7 @@
         "position": "Right Fielder",
         "teams": "Red Sox, Indians, Mets",
         "years": "1996-2008",
-        "score": 79,
+        "score": 61,
         "image": "Images/trot-nixon.jpeg",
         "facts": [
             "Full name is Christopher Trotman Nixon.",
@@ -195,7 +195,7 @@
         "position": "Third Baseman and First Baseman",
         "teams": "Red Sox, Diamondbacks, Blue Jays, Giants, Angels, Dodgers",
         "years": "2001-2007",
-        "score": 81,
+        "score": 68,
         "image": "Images/shea-hillenbrand.jpg",
         "facts": [
             "Owns a 38-acre farm in Gilbert, Arizona, housing over 90 animals including a Galapagos tortoise, an Australian wallaby, miniature horses, and llamas",
@@ -388,7 +388,7 @@
         "position": "Catcher",
         "teams": "Pirates, Athletics, Cubs, Brewers, Royals",
         "years": "1996-2010",
-        "score": 23,
+        "score": 30,
         "image": "Images/jason-kendall.jpg",
         "facts": [
             "Typically batted leadoff for the Pirates. Uncommon for a catcher.",
@@ -472,7 +472,7 @@
         "position": "Outfielder",
         "teams": "Indians, Red Sox, Phillies, Rays",
         "years": "2004-2015",
-        "score": 44,
+        "score": 41,
         "image": "Images/grady-sizemore.jpg",
         "facts": [
             "In 2023, after retiring, he accepted a $15/hour internship with the Diamondbacks to stay close to the game.",
@@ -486,7 +486,7 @@
         "position": "Second Baseman, Shortstop",
         "teams": "Expos, Dodgers, Cubs, Cardinals, Royals, Indians",
         "years": "1995-2010",
-        "score": 40,
+        "score": 45,
         "image": "Images/mark-grudzielanek.jpg",
         "facts": [
             "Won a Gold Glove with the Royals in 2006.",
@@ -500,7 +500,7 @@
         "position": "Pitcher",
         "teams": "Twins, Cubs, Giants, Orioles, Rockies, Yankees, Astros, Brewers, Angels, Mets, Blue Jays",
         "years": "1995-2015",
-        "score": 41,
+        "score": 54,
         "image": "Images/latroy-hawkins.jpg",
         "facts": [
             "In May 2025 he received his bachelor's degree from Southern New Hampshire University. The honor shared with thousands of military wives and single mothers across the country.",
@@ -514,13 +514,40 @@
         "position": "Outfielder",
         "teams": "Expos, Red Sox, Athletics, Cubs, Brewers, Pirates, Royals, Rangers, Tigers, Blue Jays, Phillies, Padres, Nationals",
         "years": "1992-2011",
-        "score": 49,
+        "score": 56,
         "image": "Images/matt-stairs.jpg",
         "facts": [
             "Holds the all time record for pinch hit home runs with 23.",
             "A member of the Canadian Baseball Hall of Fame, an honr shared with former DDD, Jason Bay.",
             "Coached high school hockey in Canada at Fredericton High School in 2012."
         ]
+    },
+    {
+        "id": "carlos-delgado",
+        "name": "Carlos Delgado",
+        "position": "First Baseman",
+        "teams": "Blue Jays, Marlins, Mets",
+        "years": "1993-2009",
+        "score": 27,
+        "image": "Images/carlos-delgado.jpg",
+        "facts": [
+            "Doing his best Kaepernick impression, he famously protested the Iraq War by refusing to stand during the playing of 'God Bless America' during the 2004 season.",
+            "Holds the MLB record for most home runs by a Puerto Rican.",
+            "Finished second in the AL MVP voting to Alex Rodriguez in 2003."
+        ]
+    },
+    {
+        "id": "gerald-laird",
+        "name": "Gerald Laird",
+        "position": "Catcher",
+        "teams": "Rangers, Tigers, Cardinals, Braves",
+        "years": "2003-2015",
+        "score": 71,
+        "image": "Images/gerald-laird.jpg",
+        "facts": [
+            "During 2007 Spring Training, teammate Jerry Hairston Jr. had real police officers fake-arrest a crying Laird over unpaid child support as an elaborate clubhouse prank.",
+            "One of the most successful mouth breathers in baseball history (find me a pic of him with his mouth closed...impossible).",
+            "Signed with the Tijuana Toros in 2016 after he couldn't find a spot in the majors. He went 0-1 in two appearances and then retired."
+        ]
     }
-    
 ]
