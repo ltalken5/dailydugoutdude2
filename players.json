@@ -549,5 +549,75 @@
             "One of the most successful mouth breathers in baseball history (find me a pic of him with his mouth closed...impossible).",
             "Signed with the Tijuana Toros in 2016 after he couldn't find a spot in the majors. He went 0-1 in two appearances and then retired."
         ]
+    },
+    {
+        "id": "yuniesky-betancourt",
+        "name": "Yuniesky Betancourt",
+        "position": "Shortstop",
+        "teams": "Mariners, Royals, Brewers",
+        "years": "2005-2013",
+        "score": 56,
+        "image": "Images/yuniesky-betancourt.jpg",
+        "facts": [
+            "Wins the award for most flawless skin.",
+            "Fled Cuba in 2003 by speed boat. Landed in Cancun, Mexico. Went to jail in Mexico for possessing a fake Mexican passport. Finally released from Mexican jail three weeks later before crossing into the US and claiming political asylum to then start his MLB career.",
+            "Most recently, was arrested in 2024 in Miami for staging a fake car crash and is facing felony insurance fraud charges."
+        ]
+    },
+    {
+        "id": "jose-vidro",
+        "name": "Jose Vidro",
+        "position": "Second Baseman",
+        "teams": "Expos, Nationals, Mariners",
+        "years": "1997-2008",
+        "score": 51,
+        "image": "Images/jose-vidro.jpg",
+        "facts": [
+            "Montreal Expos first DH in interleague play in 1997.",
+            "The face of the Montreal to Washington DC transition.",
+            "One of three MLB players from Sabana Grande, Puerto Rico. 'Sabana Grande' translates to 'big bedsheet'."
+        ]
+    },
+    {
+        "id": "boof-bonser",
+        "name": "Boof Bonser",
+        "position": "Pitcher",
+        "teams": "Twins, Red Sox, Athletics",
+        "years": "2006-2010",
+        "score": "88",
+        "image": "Images/boof-bonser.jpg",
+        "facts": [
+            "After his relatively short MLB career, he transitioned into a career as a pipe-fitter helping build submarines for the U.S. government in Connecticut.",
+            "Was born John Paul Bonser but legally changed his name to Boof Bonser in 2001.",
+            "Part of the franchise-altering trade between the Twins and Giants in which the Giants sent him, Joe Nathan, and Francisco Liriano to the Twins in exchange for A.J. Pierzynski."
+        ]
+    },
+    {
+        "id": "sidney-ponson",
+        "name": "Sidney Ponson",
+        "position": "Pitcher",
+        "teams": "Orioles, Giants, Cardinals, Yankees, Twins, Rangers, Royals",
+        "years": "1998-2009",
+        "score": 46,
+        "image": "Images/sidney-ponson.jpg",
+        "facts": [
+            "To all of our surprise, he was born in Aruba and was Knighted in the order of Orange-Nassau by Queen Beatrix of Netherlands.",
+            "To none of our surprise based on his appearance, he was arrested three times in the span of nine months in 2004-2005. Once for assaulting a judge in Aruba following a complaint about how he handled his speedboat and two DUIs.",
+            "Busted by the International Baseball Federation for using the obesity-fighting drug phentermine."
+        ]
+    },
+    {
+        "id": "willie-mo-pena",
+        "name": "Willie Mo Pena",
+        "position": "Outfielder",
+        "teams": "Reds, Red Sox, Nationals, Diamondbacks, Mariners",
+        "years": "2002-2011",
+        "score": "56",
+        "image": "Images/willie-mo-pena.jpg",
+        "facts": [
+            "Finished his 10-year MLB career with 559 strikeouts and only 425 hits.",
+            "Hit bombs. Among his notable home runs provoked by his raw power was a 498-foot blast while playing for the Reds. One of this century's longest home runs.",
+            "Not shockingly, the NPB in Japan took a liking to him and his playing style. He was a two time all star during his five year stint in Japan."
+        ]
     }
 ]
