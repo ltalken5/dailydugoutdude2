@@ -619,5 +619,33 @@
             "Hit bombs. Among his notable home runs provoked by his raw power was a 498-foot blast while playing for the Reds. One of this century's longest home runs.",
             "Not shockingly, the NPB in Japan took a liking to him and his playing style. He was a two time all star during his five year stint in Japan."
         ]
+    },
+    {
+        "id": "joe-crede",
+        "name": "Joe Crede",
+        "position": "Third Baseman",
+        "teams": "White Sox, Twins",
+        "years": "2000-2009",
+        "score": 66,
+        "image": "Images/joe-crede.jpg",
+        "facts": [
+            "In Westphalia, Missouri November 6 is known as Joe Crede Day.",
+            "A crucial piece to the 2005 World Series White Sox team always coming in clutch in the playoffs and batting .314 with five homeruns throughout.",
+            "'A member of the Missouri Sports Hall of Fame, an honor shared with Johnny Damon."
+        ]
+    },
+    {
+        "id": "brian-giles",
+        "name": "Brian Giles",
+        "position": "Outfielder",
+        "teams": "Indians, Pirates, Padres",
+        "years": "1995-2009",
+        "score": 48,
+        "image": "Images/brian-giles.jpg",
+        "facts": [
+            "Had an endorsement deal with Nair hair removal for the majority of his career.",
+            "Unfortunately lost the Nair endorsement deal after his ex-girlfriend accused him of multiple instances of domestic abuse, once even when she was pregnant. The case never really went anywhere but the Padres cut ties with Brian Giles in 2018 over the numerous issues.",
+            "Was high school valedictorian at Granite Hills High School in El Cajon, California."
+        ]
     }
 ]
