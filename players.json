@@ -647,5 +647,34 @@
             "Unfortunately lost the Nair endorsement deal after his ex-girlfriend accused him of multiple instances of domestic abuse, once even when she was pregnant. The case never really went anywhere but the Padres cut ties with Brian Giles in 2018 over the numerous issues.",
             "Was high school valedictorian at Granite Hills High School in El Cajon, California."
         ]
+    },
+    {
+        "id": "paul-lo-duca",
+        "name": "Paul Lo Duca",
+        "position": "Catcher",
+        "teams": "Dodgers, Marlins, Mets, Nationals",
+        "years": "1998-2008",
+        "score": 37,
+        "image": "Images/paul-lo-duca.jpg",
+        "facts": [
+            "After his eleven year career he became a horse racing analyst, most recently signing a contract with Barstool Sports.",
+            "His ex-wife, Sonia (Flores) Lo Duca is a former Playboy model.",
+            "Was mentioned on the Mitchell Report for his involvement in the steroid scandal of the early 2000s."
+        ]
+    },
+    {
+        "id": "aubrey-huff",
+        "name": "Aubrey Huff",
+        "position": "First Baseman",
+        "teams": "Devil Rays, Astros, Orioles, Tigers, Giants",
+        "years": "2000-2012",
+        "score": 39,
+        "image": "Images/aubrey-huff.jpg",
+        "facts": [
+            "famously wore a lucky red thong belonging to his teammate Pat Burrell during the San Francisco Giants' 2010 World Series championship run.",
+            "Admitted he abused heavy amounts of Adderall that totaled up to 100mg per day before games and counteracted that with drinking a dozen beers to fall asleep during the later part of his career.",
+            "MAGA, anti-vaxxer, homophobe, sexist, racist, and all of the other things people hate about middle-aged white men nowadays. Dig up some of his recent tweets if you want to see some gold.",
+            "Tried acting and even has his own IMDB page with headhsots and the like."
+        ]
     }
 ]
