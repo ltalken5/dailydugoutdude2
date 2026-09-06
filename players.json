@@ -676,5 +676,47 @@
             "MAGA, anti-vaxxer, homophobe, sexist, racist, and all of the other things people hate about middle-aged white men nowadays. Dig up some of his recent tweets if you want to see some gold.",
             "Tried acting and even has his own IMDB page with headhsots and the like."
         ]
+    },
+    {
+        "id": "gil-meche",
+        "name": "Gil Meche",
+        "position": "Starting Pitcher",
+        "teams": "Mariners, Royals",
+        "years": "1999-2010",
+        "score": 40,
+        "image": "Images/gil-meche.jpg",
+        "facts": [
+            "Wore number 55 with the Royals to honor his 5-year 55 million-dollar contract. This was the Royals largest contract in franchise history.",
+            "Famously voluntarily walked away from 12 million dollars in guaranteed money with the Royals because he admitted his injuries hindered him from being the pitcher the organization needed to deserve that kind of money.",
+            "The subject of the Seattle-based rock band Band of Horses' song 'Wicked Gil'."
+        ]
+    },
+    {
+        "id": "chen-ming-wang",
+        "name": "Chien Ming Wang",
+        "position": "Starting Pitcher",
+        "teams": "Yankees, Nationals, Blue Jays, Royals",
+        "years": "2005-2016",
+        "score": 30,
+        "image": "Images/chien-ming-wang.jpg",
+        "facts": [
+            "If you played MVP baseball back in the day you remember his frustratingly slow wind-up.",
+            "On April 23, 2012, admitted to having an extramarital affair while he was recovering from a shoulder injury in 2009.",
+            "Resided in New Jersey suburbs during his playing career with his wife Chia-Ling Wu. They decided to name their two sons J.J. and Wellington. I would love to see his Taiwanese family try to pronounce 'Wellington'."
+        ]
+    },
+    {
+        "id": "frank-catalatotto",
+        "name": "Frank Catalatotto",
+        "position": "Utility Player",
+        "teams": "Tigers, Rangers, Blue Jays, Brewers, Mets",
+        "years": "2003-2013",
+        "score": 38,
+        "image": "Images/frank-catalatotto.jpg",
+        "facts": [
+            "I love this very Italian last name.",
+            "Batted a remarkable .459 against star pitcher Mike Mussina during his career.",
+            "He and his wife, Barbara, have four children: Morgan, Camdyn, Karson and Gracyn. Morgan got lucky then her parents discovered the letter Y and started acting like they were the organizers of a skateboarding competition sponsored by Monster Energy."
+        ]
     }
 ]
