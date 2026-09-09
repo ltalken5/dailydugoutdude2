@@ -692,7 +692,7 @@
         ]
     },
     {
-        "id": "chen-ming-wang",
+        "id": "chien-ming-wang",
         "name": "Chien Ming Wang",
         "position": "Starting Pitcher",
         "teams": "Yankees, Nationals, Blue Jays, Royals",
@@ -711,12 +711,41 @@
         "position": "Utility Player",
         "teams": "Tigers, Rangers, Blue Jays, Brewers, Mets",
         "years": "2003-2013",
-        "score": 38,
+        "score": 40,
         "image": "Images/frank-catalatotto.jpg",
         "facts": [
             "I love this very Italian last name.",
             "Batted a remarkable .459 against star pitcher Mike Mussina during his career.",
             "He and his wife, Barbara, have four children: Morgan, Camdyn, Karson and Gracyn. Morgan got lucky then her parents discovered the letter Y and started acting like they were the organizers of a skateboarding competition sponsored by Monster Energy."
         ]
+    },
+    {
+        "id": "mark-ellis",
+        "name": "Mark Ellis",
+        "position": "Second Baseman",
+        "teams": "Athletics, Rockies, Dodgers, Cardinals",
+        "years": "2002-2014",
+        "score": 68,
+        "image": "Images/mark-ellis.jpg",
+        "facts": [
+            "Ol' Reliable at second base. His career fielding position was .991 which is fifth all time for second basemen. However, he never won a Gold Glove.",
+            "High school classmate with WNBA legend Becky Hammon.",
+            "Was a part of the Moneyball A's of 2001 and was part of the trade package that sent Johnny Damon from the Royals to the A's."
+        ]
+    },
+    {
+        "id": "bobby-jenks",
+        "name": "Bobby Jenks",
+        "position": "Relief Pitcher",
+        "teams": "White Sox, Red Sox",
+        "years": "2005-2011",
+        "score": 64,
+        "image": "Images/bobby-jenks.jpg",
+        "facts": [
+            "Instead of using a traditional hand signal, manager Ozzie Guillén would mimic a large stomach to call the 6'4”, 275-pound Bobby Jenks from the bullpen.",
+            "Retired 41 consecutive batters in 2007. This tied a record for most consecutive batters retired by a relief pitcher.",
+            "Fell vicitim to a painkiller addiction after his career until 2013ish. He eventually got sober and moved to Palisades, California where he lost his house to the fires of January 2025. One month later he died of stomach cancer. When it rains it pours for Bobby Jenks. RIP."
+        ]
     }
+
 ]
