@@ -746,6 +746,61 @@
             "Retired 41 consecutive batters in 2007. This tied a record for most consecutive batters retired by a relief pitcher.",
             "Fell vicitim to a painkiller addiction after his career until 2013ish. He eventually got sober and moved to Palisades, California where he lost his house to the fires of January 2025. One month later he died of stomach cancer. When it rains it pours for Bobby Jenks. RIP."
         ]
+    },
+    {
+        "id": "luis-castillo",
+        "name": "Luis Castillo",
+        "position": "Second Baseman",
+        "teams": "Marlins, Twins, Mets",
+        "years": "1996-2010",
+        "score": 53,
+        "image": "Images/luis-castillo.jpg",
+        "facts": [
+            "Shares a name with Mariners' Starting Pitcher, Luis Castillo. Also shares a name with probably a million other Dominicans.",
+            "Arrested in 2019 on money laundering charges.",
+            "All time leader in games played for the Marlins."
+        ]
+},
+{
+        "id": "craig-counsell",
+        "name": "Craig Counsell",
+        "position": "Infield Utility Player",
+        "teams": "Rockies, Marlins, Dodgers, Diamondbacks, Brewers",
+        "years": "1995-2011",
+        "score": 20,
+        "image": "Images/craig-counsell.jpg",
+        "facts": [
+            "Likely more well known for his managerial career having managed the Brewers from 2015-2023 and the Cubs from 2024-present.",
+            "Sporting News named him the 13th smartest athlete in 2010. Whatever that means I know that Ben Roethlisberger is not on that list.",
+            "Had a very recognizably tall standing and erect batting stance in his playing days ."
+        ]
+    },
+    {
+        "id": "corey-hart",
+        "name": "Corey Hart",
+        "position": "Right Fielder and First Baseman",
+        "teams": "Brewers, Mariners, Pirates",
+        "years": "2004-2015",
+        "score": 47,
+        "image": "Images/corey-hart.jpg",
+        "facts": [
+            "In 2007 he became the first Brewer to join the 20-20 club (HR and SB).",
+            "Tall. Stands at 6 foot 6 inches.",
+            "Real name is Jon Corey Hart."
+        ]
+    },
+    {
+        "id": "jerry-hairston-jr",
+        "name": "Jerry Hairston Jr.",
+        "position": "Utility Player",
+        "teams": "Orioles, Cubs, Rangers, Reds, Yankees, Padres, Nationals, Brewers",
+        "years": "1998-2013",
+        "score": 44,
+        "image": "Images/jerry-hairston-jr.jpg",
+        "facts": [
+            "Became a Jehovas Witness in 2000.",
+            "His brother Scott was in tha majors, along with his father, uncle, and numerous other extended family members.",
+            "Currently a studio analyst and broadcaster for the Dodgers."
+        ]
     }
-
 ]
