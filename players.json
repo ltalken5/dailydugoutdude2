@@ -802,5 +802,47 @@
             "His brother Scott was in tha majors, along with his father, uncle, and numerous other extended family members.",
             "Currently a studio analyst and broadcaster for the Dodgers."
         ]
+    },
+    {
+        "id": "joe-randa",
+        "name": "Joe Randa",
+        "position": "Third Basemen and Second Basemen",
+        "teams": "Royals, Pirates, Tigers, Reds, Padres",
+        "years": "1995-2006",
+        "score": 70,
+        "image": "Images/joe-randa.jpg",
+        "facts": [
+            "Nicknamed 'Joker' for his permanent grin while playing.",
+            "Member of this hometown, Wales, Wisconsin's, Kettle Moraine Laser Trailblazer Hall of Fame.",
+            "Standout tennis player and the founder of the Joe Randa Grand Slam Tennis Classic."
+        ]
+    },
+    {
+        "id": "brad-radke",
+        "name": "Brad Radke",
+        "position": "Pitcher",
+        "teams": "Twins",
+        "years": "1995-2006",
+        "score": 74,
+        "image": "Images/brad-radke.jpg",
+        "facts": [
+            "In 1997 he recorded 20 wins despite the Twins 67 win season.",
+            "Finished third in the 1997 Cy Young voting in good company behind Randy Johnson and Roger Clemens.",
+            "Inducted into the Twins Hall of Fame in 2009."
+        ]
+    },
+    {
+        "id": "brandon-webb",
+        "name": "Brandon Webb",
+        "position": "Pitcher",
+        "teams": "Diamondbacks",
+        "years": "2003-2009",
+        "score": 31,
+        "image": "Images/brandon-webb.jpg",
+        "facts": [
+            "One of baseball's biggest what-ifs. His historic run after his 2006 Cy Young season was cut short by a disastrous shoulder injury.",
+            "Attampted a comeback with a 2011 stint in the minors with the Rangers but never made it back up to the big leagues after needing rotator cuff surgery.",
+            "In May 2013, he filed a workers' compensation claim against the Texas Rangers for shoulder, neck, back, arm, and musculo-skeletal system injuries."
+        ]
     }
 ]
