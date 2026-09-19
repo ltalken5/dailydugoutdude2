@@ -844,5 +844,75 @@
             "Attampted a comeback with a 2011 stint in the minors with the Rangers but never made it back up to the big leagues after needing rotator cuff surgery.",
             "In May 2013, he filed a workers' compensation claim against the Texas Rangers for shoulder, neck, back, arm, and musculo-skeletal system injuries."
         ]
+    },
+    {
+        "id": "josh-barfield",
+        "name": "Josh Barfield",
+        "position": "Second Baseman",
+        "teams": "Padres, Indians",
+        "years": "2006-2009",
+        "score": 80,
+        "image": "Images/josh-barfield.jpg",
+        "facts": [
+            "Son of 12-year MLB Veteran, Jesse Barfield.",
+            "Since his retirement he has worked in the front office for multiple MLB teams, most recently as an Assistant GM for the White Sox.",
+            "Born in Venezuela while his mother went to visit his dad who was playing in the Venezuelan Winter League."
+        ]
+    },
+    {
+        "id": "kevin-kouzmanoff",
+        "name": "Kevin Kouzmanoff",
+        "position": "Third Baseman",
+        "teams": "Indians, Padres, Athletics, Rockies, Rangers",
+        "years": "2006-2014",
+        "score": 71,
+        "image": "Images/kevin-kouzmanoff.jpg",
+        "facts": [
+            "Hit a grand slam on the very first pitch he saw of his first major league at bat. He is the only player in histroy to achieve that feat, although two others have hit grand slams in the first at-bat",
+            "Despite being of Mecedonian descent, he was nicknamed 'The Crushin' Russian'.",
+            "Most recently was the hitting coach for the Las Vegas Aviators."
+        ]
+    },
+    {
+        "id": "aaron-harang",
+        "name": "Aaron Harang",
+        "position": "Pitcher",
+        "teams": "Athletics, Reds, Padres, Dodgers, Mariners, Mets, Braves, Phillies",
+        "years": "2002-2015",
+        "score": 37,
+        "image": "Images/aaron-harang.jpg",
+        "facts": [
+            "Was the victim of Pedro Martinez' 3,000th career strikeout.",
+            "Nicknamed 'The Harangutan'.",
+            "A member of the Red's Hall of Fame."
+        ]
+    },
+    {
+        "id": "michael-cuddyer",
+        "name": "Michael Cuddyer",
+        "position": "Utility",
+        "teams": "Twins, Rockies, Mets",
+        "years": "2001-2015",
+        "score": 43,
+        "image": "Images/michael-cuddyer.jpg",
+        "facts": [
+            "One of three players in MLB history to have hit for the cycle in both the American League and the National League.",
+            "Lost hearing in his left ear at the age of eleven due to a virus.",
+            "Won the NL batting title in 2013."
+        ]
+    },
+    {
+        "id":"jason-marquis",
+        "name": "Jason Marquis",
+        "position": "Pitcher",
+        "teams": "Braves, Cardinals, Cubs, Rockies, Nationals, Diamondbacks, Twins, Padres, Reds",
+        "years": "2000-2015",
+        "score": 52,
+        "image": "Images/jason-marquis.jpg",
+        "facts": [
+            "Wore number 21 when he joined the Chicago Cubs, which previously belonged to Sammy Sosa. Coincidentally, Marquis was also the pitcher who surrendered Sosa's 600th career home run..",
+            "World Series Champion with the 2006 Cardinals.",
+            "Third all time for Jewish pitchers in Strikeouts and Wins behind Sandy Koufax and Ken Holtzman."
+        ]
     }
 ]
