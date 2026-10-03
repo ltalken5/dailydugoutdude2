@@ -256,11 +256,55 @@
         "player":"aaron-harang"
     },
     {
-        "date":"2026-09-22",
-        "player":"michael-cuddyer"
+        "date": "2026-09-22",
+        "player": "michael-cuddyer"
     },
     {
         "date":"2026-09-23",
         "player":"jason-marquis"
+    },
+    {
+        "date":"2026-09-24",
+        "player":"livan-hernandez"
+    },
+    {
+        "date":"2026-09-25",
+        "player":"emil-brown"
+    },
+    {
+        "date":"2026-09-26",
+        "player":"jose-guillen"
+    },
+    {
+        "date":"2026-09-27",
+        "player":"mark-teahan"
+    },
+    {
+        "date":"2026-09-28",
+        "player":"julio-franco"
+    },
+    {
+        "date":"2026-09-29",
+        "player":"raul-ibanez"
+    },
+    {
+        "date":"2026-09-30",
+        "player":"juan-pierre"
+    },
+    {
+        "date":"2026-10-01",
+        "player":"randy-winn"
+    },
+    {
+        "date":"2026-10-02",
+        "player":"carl-pavano"
+    },
+    {
+        "date":"2026-10-03",
+        "player":"paul-konerko"
+    },
+    {
+        "date":"2026-10-04",
+        "player":"john-buck"
     }
 ]

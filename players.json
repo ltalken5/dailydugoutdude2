@@ -914,5 +914,174 @@
             "World Series Champion with the 2006 Cardinals.",
             "Third all time for Jewish pitchers in Strikeouts and Wins behind Sandy Koufax and Ken Holtzman."
         ]
+    },
+    {
+        "id":"livan-hernandez",
+        "name": "Livan Hernandez",
+        "position": "Pitcher",
+        "teams": "Marlins, Giants, Expos, Nationals, Diamondbacks, Twins, Rockies, Mets, Braves, Brewers",
+        "years": "1996-2012",
+        "score": 29,
+        "image": "Images/livan-hernandez.jpg",
+        "facts": [
+            "As a rookie, he won NLCS and World Series MVP with the Marlins.",
+            "Only a couple of seasons after retiring, he filed from Chapter 13 bankruptcy although he made over $53 million throughout his career. Court documents reveal that he gambled frequently at casinos in South Florida. Give a mouse a cookie he will ask for a glass of milk, give a Cuban $50 million he will probably lose it all gambling.",
+            "Once threw 150 pitches on a game in 2005, unheard of for the 21st century."
+        ]
+    },
+    {
+        "id":"emil-brown",
+        "name": "Emil Brown",
+        "position": "Outfielder",
+        "teams": "Pirates, Padres, Royals, Athletics, Mets",
+        "years": "1997-2009",
+        "score": 68,
+        "image": "Images/emil-brown.jpg",
+        "facts": [
+            "Drafted by the Twins in the 37th round of the 1997 MLB Draft but decided to go to Indian River State College instead. He later was drafted by the Athletics in the sixth round the following year.",
+            "Works as a real estate developer in Kansas City now.",
+            "Led the Royals in RBIs for three straight years during his time with the team."
+        ]
+    },
+    {
+        "id":"jose-guillen",
+        "name": "Jose Guillen",
+        "position": "Outfielder",
+        "teams": "Pirates, Rays, Diamondbacks, Reds, Athletics, Angles, Nationals, Mariners, Royals, Giants",
+        "years": "1997-2010",
+        "score": 31,
+        "image": "Images/jose-guillen.jpg",
+        "facts": [
+            "Hit by pitches 121 times over his 13-year career and led the majors in getting plunked in 2005 with 19 HBPs.",
+            "Linked to use of PEDs on the Mitchell Report.",
+            "In November 14, it was revealed that the DEA had intercepted a package of fifty HGH syringes en route to Guillén's house."
+        ]
+    },
+    {
+        "id":"mark-teahan",
+        "name": "Mark Teahan",
+        "position": "Utility",
+        "teams": "Royals, White Sox, Blue Jays",
+        "years": "2005-2011",
+        "score": 77,
+        "image": "Images/mark-teahan.jpg",
+        "facts": [
+            "During the 2011 season with the Blue Jays, he and teammate Brett Lawrie started together in the infield, marking the first time the franchise featured two Canadian players in the same starting lineup.",
+            "After retiring from the majors, he opened a wine room named Sorso in Scottsdale, Arizona, with his wife Lauren.",
+            "Played 33 games in the Italian Pro League after retiring from the majors."
+        ]
+    },
+    {
+        "id":"julio-franco",
+        "name": "Julio Franco",
+        "position": "Infielder",
+        "teams": "Phillies, Indians, Rangers, White Sox, Brewers, Rays, Braves",
+        "years": "1982-2007",
+        "score": 22,
+        "image": "Images/julio-franco.jpg",
+        "facts": [
+            "Played pro baseball across five decades and even played independent league baseball into his late 50s.",
+            "Retired as the oldest regular position player in MLB history, playing his final big league game at age 49 in 2007. He also held records as the oldest player to hit a home run, grand slam, and steal a base in the majors.",
+            "Is the only MLB player known to have hit a home run with his grandson in attendance."
+        ]
+    },
+    {
+        "id":"raul-ibanez",
+        "name": "Raul Ibanez",
+        "position": "Left Fielder and First Baseman",
+        "teams": "Mariners, Royals, Phillies, Yankees, Angels",
+        "years": "1996-2014",
+        "score": 24,
+        "image": "Images/raul-ibanez.jpg",
+        "facts": [
+            " Before making it big, he was drafted in the 36th round of the 1992 amateur draft and spent time assembling fruit baskets for Carnival Cruise Lines in a warehouse.",
+            "He managed to hit at least one home run against all 30 Major League Baseball franchises.",
+            "In a poll of 290 Major League players by Sports Illustrated, he was voted the second nicest major league player, after Jim Thome."
+        ]
+    },
+    {
+        "id":"juan-pierre",
+        "name": "Juan Pierre",
+        "position": "Outfielder",
+        "teams": "Rockies, Marlins, Dodgers, White Sox, Phillies",
+        "years": "2000-2013",
+        "score": 31,
+        "image": "Images/juan-pierre.jpg",
+        "facts": [
+            "In 2006, he became the only outfielder in Major League history to play in every single game of a season without committing a single error.",
+            "Recorded 205 career bunt hits, which ranks as the second-most all-time since tracking began",
+            "One of the last players to rock the legendary hat under the helmet look."
+        ]
+    },
+    {
+        "id":"randy-winn",
+        "name": "Randy Winn",
+        "position": "Outfielder",
+        "teams": "Devil Rays, Mariners, Giants, Yankees, Cardinals",
+        "years": "1998-2010",
+        "score": 48,
+        "image": "Images/randy-winn.jpg",
+        "facts": [
+            "Kindof looks like Keegan-Michael Key.",
+            "Hit for the cycle on August 15, 2005 while playing for the Giants against the Reds.",
+            "Still works in the Giants front office after numerous years as a color commentator for the team's broadcast."
+        ]
+    },
+    {
+        "id":"carl-pavano",
+        "name": "Carl Pavano",
+        "position": "Pitcher",
+        "teams": "Expos, Marlins, Yankees, Indians, Twins",
+        "years": "1998-2012",
+        "score": 54,
+        "image": "Images/carl-pavano.jpg",
+        "facts": [
+            "Part of the trade that sent Pedro Martinez to the Red Sox.",
+            "Nearly died in January 2013 after a fall while snow shoveling at his Vermont home led to internal bleeding and the emergency removal of his spleen.",
+            "Served as an analyst for Fox Sports Florida and the Marlins from 2014-2017."
+        ]
+    },
+    {
+        "id":"paul-konerko",
+        "name": "Paul Konerko",
+        "position": "First Baseman",
+        "teams": "Dodgers, Reds, White Sox",
+        "years": "1997-2014",
+        "score": 21,
+        "image": "Images/paul-konerko.jpg",
+        "facts": [
+            "During Game 2 of the 2005 World Series, he hit a dramatic grand slam in the bottom of the seventh inning to break a 4-4 tie, later winning the ALCS MVP award during that championship run.",
+            "Despite not being known as a fast runner, Konerko hit a rare inside-the-park home run against the Tampa Bay Devil Rays in 2000.",
+            "Alongside Frank Thomas, he is one of only two players in White Sox franchise history to hit 400 or more career home runs."
+        ]
+    },
+    {
+        "id":"rod-barajas",
+        "name": "Rod Barajas",
+        "position": "Catcher",
+        "teams": "Diamondbacks, Rangers, Phillies, Blue Jays, Dodgers, Mets, Pirates",
+        "years": "1999-2012",
+        "score": 62,
+        "image": "Images/rod-barajas.jpg",
+        "facts": [
+            "Served as the interim manager for the San Diego Padres for the final eight games of the 2019 season after Andy Green was fired.",
+            "Of Mexican descent but born in Norwalk, California.",
+            "Most recently served as the quality control coach for the Rangers in 2026."
+        ]
+    },
+    {
+        "id":"john-buck",
+        "name": "John Buck",
+        "position": "Catcher",
+        "teams": "Royals, Blue Jays, Marlins, Mets, Pirates, Mariners, Angels",
+        "years": "2004-2014",
+        "score": 59,
+        "image": "Images/john-buck.jpg",
+        "facts": [
+            "A piece of the trades that sent R.A. Dickey to the Blue Jays and Noah Syndergaard to the Mets.",
+            "In December 2011, he assisted in rescuing two elderly women from an overturned car in Sunrise, Florida.",
+            "In 2011, he was honored with the Florida Marlins Charlie Hough Good Guy Award for his cooperation and interaction with the media."
+        ]
     }
 ]
+
